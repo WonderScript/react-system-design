@@ -19,7 +19,7 @@
 - **Stateless Logic:** Place stateless logic in the `utils` folder.
 - **Schema Logic:** Define schema logic within the `utils` folder.
 - **Type Definitions:** Place type definitions in the `types` folder.
-- **API Definitions:** Define APIs in the `api` folder.
+- **API Definitions:** Define APIs in the `apis` folder.
 - **Component Names:** Use Pascal Case (e.g., `ComponentName`).
 - **Utility Functions:** Use Camel Case (e.g., `utilityFunction`).
 - **Domain-Driven Design:** Follow domain-driven design principles for page component definitions.
