@@ -34,7 +34,7 @@
 - **Prettier Configuration:** Set up Prettier for code formatting.
 
 ### Git Practices
-- **Documentation:** Follow the Git 780 documentation.
+- **Documentation:** (https://github.com/WonderScript/git-best-practices)[Follow the Git documentation].
 - **Code Formatting:** Use ESLint and Prettier for code formatting.
 - **Editor:** Use VS Code.
 - **Extensions:** Utilize the Material Icons extension for better iconography.
