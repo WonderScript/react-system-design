@@ -13,6 +13,7 @@ type timeboxPlanState = {
 const initialState: timeboxPlanState = {
   list: [],
 };
+console.log('eqweq');
 
 export const timeboxPlanSlice = createSlice({
   name: 'timeboxPlan',
