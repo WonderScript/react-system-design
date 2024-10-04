@@ -4,7 +4,7 @@ import {
   useGetUsersRoles,
 } from '../../../apis/profile';
 
-export const useProfile = () => {
+export const useTimebox = () => {
   const {data: userData} = useGetUser();
   const {data: userNamesData} = useGetUsersNames();
   const {data: userRolesData} = useGetUsersRoles();

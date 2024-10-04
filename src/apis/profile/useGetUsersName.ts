@@ -1,7 +1,7 @@
 import {useQuery} from '@tanstack/react-query';
 import {getUser} from './getUser';
-import usersAdapter from 'src/adapters/userAdapter';
-import {User} from 'src/models/userSchema';
+import usersAdapter from '../../adapters/userAdapter';
+import {User} from '../../models/userSchema';
 
 const useGetUsersNames = () =>
   useQuery<

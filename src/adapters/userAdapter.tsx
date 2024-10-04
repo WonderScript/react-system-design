@@ -1,4 +1,4 @@
-import UsersSchema, {User} from 'src/models/userSchema';
+import UsersSchema, {User} from '../models/userSchema';
 
 function usersAdapter(users: User[]) {
   const parsedResult = UsersSchema.safeParse(users);

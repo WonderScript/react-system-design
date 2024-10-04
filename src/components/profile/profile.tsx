@@ -3,9 +3,6 @@ import {useProfile} from './hooks/useProfile';
 
 export default function Profile(): React.ReactNode {
   const {userData, userNamesData, userRolesData} = useProfile();
-  console.log('userData', userData);
-  console.log('usersNameData', userNamesData);
-  console.log('userRolesData', userRolesData);
 
   return (
     <>
